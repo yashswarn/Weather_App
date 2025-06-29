@@ -13,6 +13,8 @@ A real-time weather app that fetches data from OpenWeatherMap API.
 - JavaScript
 - OpenWeatherMap API
 
+- Live demo: https://yashswarn.github.io/Weather_App/ 
+
 ## 📦 How to Run
 ```bash
 git clone https://github.com/yashswarn/Weather_App.git
